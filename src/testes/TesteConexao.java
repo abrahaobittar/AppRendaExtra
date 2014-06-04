@@ -4,10 +4,8 @@ import java.sql.SQLException;
 
 import persistencia.Conexao;
 
-public class TesteConexao
+public class TesteConexao //OK
 {
-
-	
 	public static void main(String[] args) {
 		try {
 			Conexao con = new Conexao();

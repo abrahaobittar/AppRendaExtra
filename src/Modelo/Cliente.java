@@ -2,8 +2,7 @@ package Modelo;
 
 import java.util.Date;
 
-public class Cliente
-{
+public class Cliente {
 	private int id;
 	private String nome;
 	private String endereco;
